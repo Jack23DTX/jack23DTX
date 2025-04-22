@@ -23,7 +23,7 @@
 ### 📬 Contacts
 
 [![Telegram](https://img.shields.io/badge/-@jack23DTX-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dtx290)
-[![Gmail](https://img.shields.io/badge/-jack23dtx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evgeniy.pushkarev.it@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evgeniy.pushkarev.it@gmail.com)
 
 ---
 
