@@ -6,8 +6,7 @@
 ### 🧠 What I'm working on:
 
 - 🚀 Learning **Go**.
-- 🛠 Building small projects.
-- 🐳 Exploring Docker, PostgreSQL, and app architecture.
+- 🛠 Building projects.
 - 💡 Reading, practicing, stumbling sometimes, but always moving forward.
 
 ---
